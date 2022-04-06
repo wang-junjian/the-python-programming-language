@@ -1,2 +1,1 @@
-# the-python-programming-language
-The Python Programming Language
+# Python程序设计语言（The Python Programming Language）
